@@ -1,0 +1,149 @@
+Perry Ehimuh
+832-341-8762 | PerryEhimuh@gmail.com |
+ https://www.linkedin.com/in/perry-ehimuh/ | https://github.com/PerryE25
+Education
+The University of Texas at Austin | Austin, TX                                                                                                         December 2026
+Bachelor of Science | Computer Science                                                                                                                
+•	Relevant Coursework: Data Structures and Algorithms, Discrete Mathematics, Introduction to Programming, Linear Algebra, Introduction to Python
+
+Technical Skills
+Programing Languages: Java, Python, C, HTML/CSS, and JavaScript
+Frameworks/Libraries/Tools: Visual Studio Code, Eclipse, GitHub, Git, Linux, Bash, Microsoft Office, Adobe Creative Suite, Photography, Outlook, IntelliJ, React.js, Project Management
+Certificates: Harvard CS50’s AP Computer Science Principles (2020), University of Houston Downtown Scholars Academy Certificate of Completion (2018)
+
+Experience
+Mobalytics Gaming Development Internship | Remote                                                                    June 2024 – July 2024
+Mobalytics Gaming
+•	Conducted comprehensive market research on gaming genres, analyzing game mechanics, player behavior, and competitive scenes.
+•	Developed detailed insights on player profiles and game performance, including in-game decision-making and community dynamics.
+•	Presented actionable recommendations through a 7-10 slide presentation, summarizing research findings and suggesting strategic expansions for Mobalytics.
+Athletics Creative Development Internship | Austin, TX                                                   October 2021 – December 2021
+University of Texas at Austin
+•	In charge of creating media for UT’s athletic teams through photography, videography, graphic design, and analyzing social media data for such teams.
+Self-Employed Photographer | Houston, TX                                                                                January 2021 – May 2021
+•	Led my own business participating in sports photography, portraits, graduation pictures, etc.
+•	In charge of the online distribution of pictures under the business management of “Mr. E’s Media”
+•	Photography Portfolio
+
+Projects
+  Multi-Instance SaaS App with KubePlus & GKE  | BitBucket                                                                                July 2025
+   Google Kubernetes Engine (GKE), KubePlus, Helm, Bash CLI, REST, NetworkPolicy
+•	Utilized KubePlus to register Helm chart as a Kubernetes-native Custom Resource (CRD), enabling kubectl-based deployment of multiple tenant-isolated namespaces with network policies and dynamic resource provisioning.
+•	• Extended app logic with a /metrics endpoint to track usage stats for each HTTP route; built kubectl-appmetrics-show CLI plugin to extract live instance-level telemetry via REST over custom kubeconfig.
+•	• Packaged Helm chart with versioned .tgz, deployed production-grade containers to GCR for GKE cluster consumption, and parameterized tenant configs (e.g., GREETING, NODE_PORT, IMAGE) for scalable instance rollout.        
+Helm Chart Deployment & CLI Tooling – “Greetings” Microservice | BitBucket                                                   July 2025
+   Helm, Kubernetes (Minikube), RBAC, Bash CLI, YAML, REST APIs
+•	Engineered a reusable Helm chart to deploy a containerized Python microservice across multiple namespaces (greetings1, greetings2), using dynamic Helm variables for replicas, ports, and environment configs.
+•	• Enhanced application endpoints (/greetings, /listcontents, /getk8sobjects) with namespace-aware RBAC queries; passed current namespace via environment variable using Helm’s .Release.Namespace.
+•	• Built custom kubectl CLI plugins (greetings-show, greetings-delete) in Bash to automate service introspection and release deletion via REST and Helm API calls.         
+Kubernetes App Orchestration– “Greetings” Service | BitBucket                                                                            June 2025
+  Kubernetes (Minikube, kubectl), YAML, RBAC, ConfigMaps
+•	Deployed a containerized Python app from Docker to a local Kubernetes cluster using Minikube, implementing deployment specs with 3-replica pods, environment variables, and volume mounts.
+•	Defined and configured Kubernetes Service (NodePort), ServiceAccount, ConfigMap, and RBAC (Roles/RoleBindings) using greetings.yaml, applying correct selectors and labels for resource management.
+•	Connected local Docker CLI to Minikube’s Docker daemon to build and push custom images; validated app behavior using kubectl and curl commands for testing pods, services, and mounted volumes.      
+Docker Web App Deployment – “Greetings” Service | BitBucket                                                                            June 2025
+  Docker, Shell Scripting, Python (Flask)
+•	Built and containerized a Python web service with Docker using a custom Ubuntu 22.04 base image, environment variables, and volume mounting to support runtime configuration.
+•	Engineered RESTful endpoints (/greetings, /listcontents) to return environment-based greetings and host volume contents dynamically; exposed app via port 5001.
+•	Scripted Docker image build and run automation using Bash (build.sh, updated-run.sh), enabling flexible runtime behavior through parameterized execution.     
+Collatz Problem Solver with Optimization| GitLab                                                                                                   June 2025
+   Python, GitLab CI, cProfile, Unit Testing, Optimization
+•	Implemented the 3n+1 Collatz Conjecture in Python with memoization caching for performance optimization, achieving 100% test coverage and successful GitLab CI integration.
+•	Developed and ran unit tests and acceptance tests (100-200 lines) to cover edge cases, achieving robust code reliability and debugging with cProfile.
+•	Collaborated efficiently with a partner, making regular commits, managing 15+ GitLab issues, and submitting optimized code to Sphere Online Judge after resolving performance bottlenecks.   
+TXFishSpots Web App IDB (Coddle)| GitLab                                                                                                          June 2025
+  Flask, React, SQLAlchemy, MySQL, Postman, GCP, Bootstrap, Python, JavaScript, GitLab CI
+•	• Designed and implemented a dynamic web application emulating IMDB to track Texas Fish Spots with three interlinked models using Flask, SQLAlchemy, and React.
+•	Developed the front-end using React, creating the Home and About Me pages, integrating Flipcards with CSS for interactive design, and building a Developer Tools carousel using a wrap-around array. Also made a 30-second video using CapCut for user experience.
+•	Collaborated on GitLab, using version control, handling 15+ issues, creating unit tests, and contributing to a detailed technical report and presentation.      
+  Snake Arcade Game | GitHub                                                                                                                              January 2023
+  HTML/CSS/JavaScript, P5.js Libraries
+•	Utilized JavaScript classes to engineer the 1976 arcade snake game; pioneered a snake class that eats food and grows snake body with array shifting/traversal algorithm
+•	Used scale algorithm to update resolutions correspondingly
+•	Organized technical workshop to administrate front-end engineering concepts to 10 undergraduates.
+  Image to ASCII Filter | GitHub                                                                                                                        November 2022
+  HTML/CSS/JavaScript, P5.js Libraries
+•	Engineered a live processes video converting each pixel to ASCII text corresponding to each individual pixel’s brightness value; calculated brightness values from average of RGB values
+•	Utilized P5.js Libraries to create a multidimensional array-traversal algorithm to map pixels to black and white characters
+•	Organized technical workshop to administrate front-end engineering concepts to 15 undergraduates
+  Sudoku Solver | GitHub                                                                                                                                     October 2022
+  Python, PyGames API 
+•	Implemented a recursive backtracking algorithm to design a sudoku solver that takes player’s input and can auto play
+•	Simulated and computed the player’s tries utilizing PyGames API
+  Directly | GitHub                                                                                                                                                  October 2022
+  HTML/CSS & JavaScript, TopSites API, Commands API
+•	Pioneered the creation of a Google Chrome shortcut extension from a client’s input and automated recommended shortcuts after 3 days of use using users’ requests adhering to the TopSites API
+•	Won 3rd Place in Hack TX 2022 using UI/UX and ideation workshops
+  YouTube to Spotify Automation | GitHub                                                                                                      September 2022
+  Python, YouTube Data API, Spotify Web API, Python Requests API
+•	Leveraged Python to automate the creation of a Spotify Playlist from a user’s Liked Video playlist on YouTube using HTTP requests adhering to the Spotify Web API
+•	Organized playlists on average of 30 to 100 songs and converted to Spotify
+•	Analyzed video data from the Liked Videos playlist of a YouTube account using the YouTube Data API to determine the contents of the HTTP request
+  Connect Four Simulation | GitHub                                                                                                                             April 2022
+  Java, Scanner API
+•	Created a Connect Four simulation using Java array-traversal algorithms
+•	Used data structures, multi-dimensional array traversing, and two-player user input
+  Hangman | GitHub
+•	Developed the Hangman game with conditionals, standard input, and loops learned in Intro to Programming course
+  Decipher | GitHub
+•	Used frequency analysis to initially decrypt a secret message with tallying algorithm
+•	Swapped letters around two-by-two as a detective to get final decrypted message
+  University of Houston Downtown (UHD) | Prototype Website
+•	Prototyped a sample website for UHD with a small group of 20 programmers
+•	Oversaw the Texas Workforce Commission’s 2018 General Statement in my subgroup of three people
+•	Created the design of my subgroup’s webpage and inputting the information for each person’s box of text.
+  HackTX 2021
+•	Attended workshops and understood the project-building aspects of technology at the University of Texas at Austin’s annual hackathon
+•	Learned Python, GitHub, Ideation, and sharpened my interview skills
+
+Leadership & Community Involvement
+Association of Black Computer Scientists (ABCS) | Austin, TX	December 2021 – Present
+Vice President | Internal Outreach Officer
+•	Promoted technical projects to dozens of members and guided the Computer Science internal transfer program
+•	Organized members into meetings associated with Tech companies, promoted diversity around the University of Texas Computer Science (UTCS) program, and uplifted mental health in UTCS program.
+National Society of Black Engineers | Austin, TX	           October 2021 – Present
+NSBE Constituent
+•	Increased the number of culturally responsible African American Engineers by roughly 10%
+•	Represented engineers who excel academically, succeed professionally and positively impact the community
+Texas Convergent | Austin, TX	October 2021 – Present
+Member
+•	Organized projects among Business and Computer Science students and took initiative in project presenting
+ABCS LBJ Mentorship Program | Austin, TX	           October 2022 – Present
+•	Volunteered | 15 hours
+•	Led group of 30 students in the LBJ High School mentorship programming project of providing information about UTCS opportunities and provided internships for 5 students while in high school.
+
+Educational Courses
+Software Engineering | University of Texas at Austin	     June 2025 – July 2025
+CS Upper-Division Elective
+•	Developed full-stack web applications using Flask, PostgreSQL, SQLAlchemy, and deployed them to the cloud via Google Cloud Platform (GCP) and Namecheap.
+•	Built and tested Python modules using unit testing, code coverage, and continuous integration with GitLab CI and Makefiles.
+•	Collaborated on 2 major software projects, each emphasizing different aspects of software engineering: testing, cloud deployment, database integration, and RESTful APIs.
+•	Learned modern development workflows, including version control with Git/GitLab, code documentation with pydoc/pdoc, and pair programming techniques.
+•	Explored agile methodologies through weekly readings from Extreme Programming Installed and authored technical papers on topics such as team collaboration, CI, and interviewing strategies.
+•	Practiced API design and documentation using Postman, and implemented secure client-server communication protocols.
+•	Gained hands-on experience with React, HTML/CSS/JS, and frontend-backend integration for dynamic web applications.
+•	Authored 7 programming assignments and a technical report, refining academic writing skills in line with the course’s Writing Flag designation.
+•	Designed and normalized relational databases with UML diagrams, ER diagrams, and practiced SQL joins, queries, and schema mapping.
+•	Demonstrated technical work during the final weeks, demonstrating knowledge of the software development lifecycle from conception to deployment. 
+Cloud Native Computing | University of Texas at Austin	             June 2025 – July 2025 CS Upper-Division Elective
+•	• Deployed containerized applications using Docker, authoring Dockerfiles, managing volumes, and following industry-standard container best practices.
+•	• Orchestrated microservices and workloads with Kubernetes, working with Minikube, kubectl, YAML configurations, StatefulSets, ConfigMaps, and RoleBindings.
+•	• Automated Kubernetes application deployments with Helm, creating and customizing Helm charts for real-world use cases.
+•	• Implemented multi-tenancy and SaaS application patterns using KubePlus, exploring namespace isolation, RBAC, and cloud-native operator design.
+•	• Monitored Kubernetes clusters using Prometheus, configuring observability stacks for metric collection, alerting, and performance tracking.
+•	• Completed 4 major programming assignments and 3 quizzes covering cloud-native architecture, container orchestration, CI/CD, and logging/monitoring practices.
+•	• Gained practical knowledge of CNCF tools and contributed to class discussions on open-source workflows and Kubernetes community contributions.
+
+Honors & Awards
+TAFE Educators Rising Ethical Dilemma Varsity 1st Place National Qualifier Scholarship (April 2021)
+•	Led my group of three people against the dozens of other Ethical Dilemma competitors in the state of Texas.
+•	Created solutions that teachers encounter in the Texas Association of Future Educators (TAFE),
+•	Earned first place in the state of Texas and moved on to top five in the Nation.   Dell Scholars (University of Texas at Austin)
+•	Received grant for a Dell laptop and textbook credit
+
+Additional Information
+Interests: Software Engineering, Web Development, UI/UX Design, working out, basketball, photography, video editing, video games, activism, philosophy, motivation, Unix, Framework, Encryption, Artificial Intelligence, E-Commerce
+Work Eligibility: Eligible to work with no restrictions in the U.S.
+Soft Skills: Self-Motivated, Open-mindedness, Effective Communication, Critical Thinking, Adaptable
+
+Things to add: Haven Men Exec, ABCS VP, Canes crewmember 2 months, Kumon teaching assistant 5 months, Kylan’s automation project

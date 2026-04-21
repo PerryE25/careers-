@@ -1,0 +1,229 @@
+SOFTWARE ENGINEERING JOB APPLICATION AUTOFILL MASTER FILE
+
+========================
+BASIC INFORMATION
+=================
+
+Full Name: Perry Ehimuh
+Preferred Name: Perry
+Email: [perryehimuh@gmail.com](mailto:perryehimuh@gmail.com)
+Phone: 832-341-8762
+LinkedIn: https://www.linkedin.com/in/perry-ehimuh/
+GitHub: https://github.com/PerryE25
+Portfolio: N/A (GitHub serves as portfolio)
+
+Current Location: Austin, Texas, United States
+
+========================
+LOCATION PREFERENCES
+====================
+
+Preferred Locations:
+
+* Austin, Texas (Preferred)
+* Houston, Texas
+* Dallas, Texas
+* Philadelphia, Pennsylvania
+
+Open to Remote: Yes
+Open to Hybrid: Yes
+Open to Onsite: Yes
+Open to Relocation: Yes (Texas & outside Texas)
+
+========================
+WORK AUTHORIZATION
+==================
+
+U.S. Citizen: Yes
+Authorized to work in U.S.: Yes
+Require sponsorship now or future: No
+
+========================
+ROLE PREFERENCES
+================
+
+Target Roles:
+
+* Software Engineer
+* Full Stack Engineer
+* Backend Engineer
+* Frontend Engineer
+* New Grad Software Engineer
+
+Employment Types:
+
+* Full-time
+* Internship
+* Part-time
+* Contract
+* Entry-level / New Grad
+
+Start Date: After December 2026
+
+========================
+SALARY
+======
+
+Minimum Salary: $60,000+
+Open to discussion: Yes
+
+========================
+EDUCATION
+=========
+
+University: University of Texas at Austin
+Degree: Bachelor of Science in Computer Science
+Graduation: December 2026
+GPA: 2.42
+
+Relevant Coursework:
+
+* Software Engineering
+* Cloud Native Computing
+* Android Mobile Computing
+* Web Search
+* Pitch to Prototype
+* Data Structures & Algorithms
+* Discrete Mathematics
+* Linear Algebra
+
+========================
+TECH STACK
+==========
+
+Languages:
+Java (Preferred), JavaScript, Python, C, HTML/CSS
+
+Frameworks/Tools:
+React.js, Flask, Kubernetes, Docker, Helm, Git, GitHub, Bash, Linux
+
+Cloud:
+Google Cloud Platform (GCP), Kubernetes (GKE)
+
+Databases:
+MySQL, SQLAlchemy
+
+Top Skills:
+
+* Backend Development
+* Full Stack Development
+* Cloud / Kubernetes
+* API Development
+* Problem Solving
+
+========================
+PROJECTS
+========
+
+1. Kubernetes Multi-Instance SaaS App
+
+* Built scalable multi-tenant app using Kubernetes, Helm, and GKE
+* Implemented metrics tracking and CLI tooling
+
+2. Coddle (TXFishSpots Web App)
+
+* Full stack web app using Flask + React + MySQL
+* Built dynamic UI and backend APIs
+
+3. Snake Arcade Game
+
+* Built classic game using JavaScript and P5.js
+* Implemented game logic and scaling
+
+4. TikTok Clone (Remake)
+
+* Recreated core UI/UX and functionality of TikTok
+* Focused on frontend and interaction design
+
+========================
+EXPERIENCE
+==========
+
+Internship Experience: None
+Professional Experience: None
+
+========================
+GENERAL QUESTIONS
+=================
+
+Are you 18 or older? Yes
+Previously worked at company? No
+Previously interviewed? No
+Non-compete agreement? No
+
+========================
+MILITARY STATUS
+===============
+
+Served in military: No
+Protected veteran: No
+
+========================
+EEO (OPTIONAL)
+==============
+
+Gender: Male
+Race/Ethnicity: African American (Not Hispanic/Latino)
+Disability: No
+
+========================
+JOB SEARCH PREFERENCES
+======================
+
+Company Size: Any
+Startup: Yes
+Big Tech: Yes
+Government: Yes
+Industry: Open to all
+
+========================
+RELOCATION
+==========
+
+Willing to relocate: Yes
+Notice needed: 14 days
+
+========================
+AVAILABILITY
+============
+
+Earliest interview date: May 1
+Start date: After December 2026
+
+========================
+CONTACT
+=======
+
+Preferred contact method: Email
+Notice period: 7 days
+
+========================
+LEGAL
+=====
+
+Felony: No
+Background check: Yes
+Drug screening: Yes
+Agree to policies: Yes
+
+========================
+PRE-WRITTEN APPLICATION ANSWERS
+===============================
+
+Why are you interested in this company?
+I’m interested in this company because of its focus on building impactful technology at scale and its strong engineering culture. I’m especially drawn to opportunities where I can contribute to real-world products while continuing to grow my skills in software engineering, cloud systems, and full-stack development. I’m excited about the possibility of working on meaningful problems and learning from experienced engineers.
+
+Why are you interested in this role?
+I’m interested in this role because it aligns with my background in software engineering and my interest in building scalable applications. Through my coursework and projects, I’ve worked with full-stack technologies, cloud platforms, and Kubernetes, and I’m excited to apply these skills in a real-world engineering environment while continuing to learn and grow.
+
+Why are you a good fit?
+I’m a strong fit because I bring a combination of technical skills, hands-on project experience, and a willingness to learn quickly. I’ve built full-stack applications and worked with modern tools like Kubernetes, Docker, and React, and I’m comfortable adapting to new technologies. I’m also highly motivated and collaborative, and I’m looking for an environment where I can contribute while continuing to grow as an engineer.
+
+Describe a technical project:
+One of my most impactful projects was building a multi-instance SaaS application using Kubernetes and Google Kubernetes Engine. I implemented a system that allows multiple isolated deployments using Helm and custom resource definitions, and added a metrics endpoint to track usage across instances. This project helped me understand cloud-native architecture, scalability, and how to design systems for real-world deployment.
+
+Career goals (2–3 years):
+In the next 2–3 years, my goal is to grow into a strong software engineer by gaining experience working on production systems and collaborating with engineering teams. I also plan to pursue a master’s degree to deepen my technical knowledge and eventually move into higher-level engineering roles where I can contribute to system design and architecture.
+
+Preferred programming language:
+My preferred programming languages are Java and JavaScript. I enjoy Java for its structure and use in backend systems, and JavaScript for building interactive front-end applications. Together, they allow me to work across the full stack.
