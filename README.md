@@ -1,5 +1,5 @@
 
-  # CareerCopilot
+  # Careers+
 
   This is a code bundle for CareerCopilot. The original project is available at https://www.figma.com/design/QQAWXRjT1WJvwf8vGiNUrL/CareerCopilot.
 
